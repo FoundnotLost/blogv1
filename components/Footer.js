@@ -1,7 +1,7 @@
 import React from "react";
 
 import { AiOutlineMail } from "react-icons/ai";
-import { FaLinkedinIn, FaGithub, FaBlog, FaMediumM } from "react-icons/fa";
+import { FaLinkedinIn, FaGithub } from "react-icons/fa";
 
 function Footer() {
   return (
